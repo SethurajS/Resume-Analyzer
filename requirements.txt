@@ -1,0 +1,11 @@
+beautifulsoup4==4.8.2
+bs4==0.0.1
+certifi==2019.11.28
+nltk==3.4.5
+pdfminer==20191125
+Pillow==7.0.0
+pycryptodome==3.9.7
+six==1.14.0
+soupsieve==2.0
+ttkthemes==3.0.0
+wincertstore==0.2
