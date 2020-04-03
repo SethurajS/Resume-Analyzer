@@ -2,4 +2,4 @@
 
    An application which can evaluate Resumes/CVs using " NLP "
 
-     <img src="images/Capture.png">
+     <img src="images/Capture.png" width="100">
