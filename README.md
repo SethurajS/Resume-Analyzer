@@ -1,6 +1,6 @@
-#CV/Resume Analyzer
+#**CV/Resume Analyzer**
 
-An application which can evaluates CV/Resumes using " NLP ". 
+   ##**An application which can evaluates CV/Resumes using " NLP ".** 
 
 "Application Interface"
 
