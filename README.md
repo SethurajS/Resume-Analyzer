@@ -1,4 +1,4 @@
 # CV_Analyzer
 
 
-!["Application Interface"](images/Capture.png | width=100)
+!["Application Interface"](images/Capture.png=250x250)
